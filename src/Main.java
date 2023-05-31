@@ -18,3 +18,4 @@ public class Main {
         Search dijkstra = new DijkstraSearch(graph);
         dijkstra.search(0);
     }
+}
